@@ -1,2 +1,3 @@
 # Oceanmodeldata
-so i can share my code with my friends
+Please download "phyto.xlsx" in order for any code to ru
+and download R packages "ncdf4" "lubridate" "tidyverse" "readxl"
