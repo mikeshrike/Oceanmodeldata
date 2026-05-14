@@ -1,4 +1,6 @@
-#Extracting data from norkyst in order to model
+# Installing required packages
+install.packages(c("ncdf4", "lubridate","tidyverse","readxl"))
+# Extracting data from norkyst in order to model
 
 library(ncdf4)
 library(lubridate)
