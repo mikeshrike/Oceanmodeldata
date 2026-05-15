@@ -239,7 +239,7 @@ df_modeldata  <- bind_rows(df_list, .id = "depth")
 
 library(tidyverse)
 
-df_phyto <- read_excel("Phyto.xlsx") #or please insert the name of the plankton sample file here if "Phyto.xlsx" is not the name of the given file
+phyto_df <- read_excel("Phyto.xlsx") #or please insert the name of the plankton sample file here if "Phyto.xlsx" is not the name of the given file
 
 
 #condensing the data set into usable variables
